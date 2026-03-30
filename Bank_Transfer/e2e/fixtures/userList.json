@@ -1,0 +1,14 @@
+{
+    "Admin": {
+        "email": "admin@example.com",
+        "password": "MotDePasse123*"
+    },
+    "PurchaseManager": {
+        "email": "purchasemanager@example.com",
+        "password": "MotDePasse123*"
+    },
+    "Guest": {
+        "email": "guest@example.com",
+        "password": "MotDePasse123*"
+    }
+}

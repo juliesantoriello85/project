@@ -1,0 +1,15 @@
+export const selectors = {
+    bankTransfer: '[data-cy="payment-method-bank-transfer"]',
+    instantPayment: 'input[type="radio"][value="instant"]',
+    scheduledPayment: 'input[type="radio"][value="scheduled"]',
+    confirmButton: '[data-cy="confirm-bank-transfer"]',
+    beneficiary: '[data-cy="beneficiary-name"]',
+    iban: '[data-cy="iban"]',
+    label: '[data-cy="label"]',
+    amount: '[data-cy="amount"]',
+    warningBeneficiaryName: '[data-cy="warning-beneficiary-name"]',
+    warningIban: '[data-cy="warning-iban"]',
+    warningLabel: '[data-cy="warning-label"]',
+    warningAmount: '[data-cy="warning-amount"]',
+    datePicker: '[data-cy="scheduled-date"]',
+};
