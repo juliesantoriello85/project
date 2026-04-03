@@ -1,0 +1,12 @@
+{
+    "name": "bank-transfer-tests",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "cypress run"
+    },
+    "devDependencies": {
+        "cypress": "^13.0.0",
+        "cypress-cucumber-preprocessor": "^4.3.1",
+        "mochawesome": "^7.1.3"
+    }
+}
